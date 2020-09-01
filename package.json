@@ -1,0 +1,20 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesSleep/typechain.git"
+  },
+  "author": "JamesSleep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesSleep/typechain/issues"
+  },
+  "homepage": "https://github.com/JamesSleep/typechain#readme"
+}
